@@ -1,0 +1,62 @@
+body {
+	/*background-image: url("notepad.jpg");*/
+	background-color: #00a8ff;
+}
+ul {
+  list-style-type: none;
+}
+li {
+	cursor: pointer;
+}
+.my-text{
+  height:500px;
+  width:700px;
+  border:1px solid #ccc;
+  font:16px/26px Roboto, Serif;
+  overflow: auto;
+  position: relative;
+  vertical-align: center;
+  margin: auto;
+  /*left:350px;*/
+  padding: 10px;
+  background-color:white;
+  border-radius: 10px;
+}
+h1 {
+	color: white;
+	text-align: center;
+  letter-spacing: 15px;
+  text-transform: uppercase;
+  font-size: 60px;
+
+}
+h2 {
+	color: white;
+	text-align: center;
+}
+
+.fa {
+	font-size: 100px;
+	vertical-align: middle;
+}
+
+span {
+  display: block;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.inclusion {
+  color: white;
+  padding: 5px 0 10px 0;
+  display: block;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+.form-group {
+	width: 70%;
+	vertical-align: center;
+  margin: auto;
+}
+
